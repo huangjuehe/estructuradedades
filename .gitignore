@@ -1,0 +1,30 @@
+# Compiled executables
+*.out
+*.exe
+test
+a.out
+
+# Object files
+*.o
+*.obj
+
+# VSCode settings (optional - some people track these)
+.vscode/
+*.code-workspace
+
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Temporary files
+*.swp
+*.swo
+*~
+.*.swp
+
+# Debug files
+*.dSYM/
+*.su
+*.idb
+*.pdb
